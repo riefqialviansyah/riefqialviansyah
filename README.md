@@ -72,7 +72,8 @@ My personal website showcasing my engineering experience, technical expertise, a
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riefqialviansyah&show_icons=true&theme=transparent&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riefqialviansyah&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
 ---
 
